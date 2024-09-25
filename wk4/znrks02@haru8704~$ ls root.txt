@@ -1,0 +1,2 @@
+znrks02@haru8704:~$ ls /root
+ls: cannot open directory '/root': Permission denied

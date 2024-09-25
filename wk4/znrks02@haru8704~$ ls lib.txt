@@ -1,0 +1,23 @@
+znrks02@haru8704:~$ ls /lib
+apparmor           grub                                  modprobe.d           sasl2
+apt                grub-legacy                           modules              sftp-server
+binfmt.d           hdparm                                modules-load.d       snapd
+byobu              init                                  multipath            software-properties
+cloud-init         initcpio                              nagios               ssl
+cnf-update-db      initramfs-tools                       needrestart          sysctl.d
+command-not-found  kernel                                netplan              sysstat
+console-setup      klibc                                 networkd-dispatcher  systemd
+cryptsetup         klibc-sw0VayLfV0hmLGCQE9vyfOnj81g.so  nvidia               sysusers.d
+dbus-1.0           libmpathcmd.so.0                      open-iscsi           tmpfiles.d
+dhcpcd             libmpathpersist.so.0                  openssh              ubiquity
+dpkg               libmpathutil.so.0                     os-probes            ubuntu-advantage
+dracut             libmultipath.so.0                     os-release           ubuntu-release-upgrader
+environment.d      linux                                 pam.d                udev
+file               linux-boot-probes                     pcrlock.d            udisks2
+finalrd            linux-tools                           pm-utils             ufw
+firmware           linux-tools-6.8.0-44                  policykit-1          update-notifier
+girepository-1.0   llvm-18                               polkit-1             valgrind
+git-core           locale                                python3              x86_64-linux-gnu
+gnupg              lsb                                   python3.12
+gnupg2             man-db                                recovery-mode
+groff              mime                                  rsyslog

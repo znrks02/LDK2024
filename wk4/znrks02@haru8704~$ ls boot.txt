@@ -1,0 +1,4 @@
+znrks02@haru8704:~$ ls /boot
+config-6.8.0-44-generic  initrd.img-6.8.0-44-generic  System.map-6.8.0-44-generic  vmlinuz.old
+grub                     initrd.img.old               vmlinuz
+initrd.img               lost+found                   vmlinuz-6.8.0-44-generic

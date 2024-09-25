@@ -1,0 +1,2 @@
+znrks02@haru8704:~$ ls /home
+znrks02

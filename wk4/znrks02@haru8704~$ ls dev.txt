@@ -1,0 +1,22 @@
+znrks02@haru8704:~$ ls /dev
+autofs           hidraw0       mqueue    snd     tty22  tty41  tty60      ttyS20     uhid         vcsu
+block            hpet          net       sr0     tty23  tty42  tty61      ttyS21     uinput       vcsu1
+bsg              hugepages     null      stderr  tty24  tty43  tty62      ttyS22     urandom      vcsu2
+btrfs-control    hwrng         nvram     stdin   tty25  tty44  tty63      ttyS23     userfaultfd  vcsu3
+bus              i2c-0         port      stdout  tty26  tty45  tty7       ttyS24     userio       vcsu4
+cdrom            initctl       ppp       tty     tty27  tty46  tty8       ttyS25     vboxguest    vcsu5
+char             input         psaux     tty0    tty28  tty47  tty9       ttyS26     vboxuser     vcsu6
+console          kmsg          ptmx      tty1    tty29  tty48  ttyprintk  ttyS27     vcs          vfio
+core             log           pts       tty10   tty3   tty49  ttyS0      ttyS28     vcs1         vga_arbiter
+cpu              loop0         random    tty11   tty30  tty5   ttyS1      ttyS29     vcs2         vhci
+cpu_dma_latency  loop1         rfkill    tty12   tty31  tty50  ttyS10     ttyS3      vcs3         vhost-net
+cuse             loop2         rtc       tty13   tty32  tty51  ttyS11     ttyS30     vcs4         vhost-vsock
+disk             loop3         rtc0      tty14   tty33  tty52  ttyS12     ttyS31     vcs5         zero
+dm-0             loop4         sda       tty15   tty34  tty53  ttyS13     ttyS4      vcs6         zfs
+dma_heap         loop5         sda1      tty16   tty35  tty54  ttyS14     ttyS5      vcsa
+dri              loop6         sda2      tty17   tty36  tty55  ttyS15     ttyS6      vcsa1
+ecryptfs         loop7         sda3      tty18   tty37  tty56  ttyS16     ttyS7      vcsa2
+fb0              loop-control  sg0       tty19   tty38  tty57  ttyS17     ttyS8      vcsa3
+fd               mapper        sg1       tty2    tty39  tty58  ttyS18     ttyS9      vcsa4
+full             mcelog        shm       tty20   tty4   tty59  ttyS19     ubuntu-vg  vcsa5
+fuse             mem           snapshot  tty21   tty40  tty6   ttyS2      udmabuf    vcsa6
